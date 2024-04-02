@@ -28,3 +28,12 @@ string[] GetArray(string[] strArray)
     }
 }
 string[] newArray = new string[newSize];
+int i = 0;
+    foreach (string item in strArray)
+    {
+        if (item.Length <= 3)
+        {
+            newArray[i] = item;
+            i++;
+        }
+    }
