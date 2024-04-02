@@ -17,5 +17,14 @@ string[] strArray = {"1234", "1567", "-2", "computer science"};
 // string[] strArray = {"Hello", "2", "world", ":-)"};
 
 string[] GetArray(string[] strArray)
-
+{
+    int newSize = 0;
+    foreach (string item in strArray)
+    {
+        if (item.Length <= 3)
+        {
+            newSize++;
+        }
+    }
+}
 
