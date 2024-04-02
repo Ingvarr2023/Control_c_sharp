@@ -1,0 +1,14 @@
+D:\Programmes\Control_c_sharp\bin\Debug\net8.0\Control_c_sharp.exe
+D:\Programmes\Control_c_sharp\bin\Debug\net8.0\Control_c_sharp.deps.json
+D:\Programmes\Control_c_sharp\bin\Debug\net8.0\Control_c_sharp.runtimeconfig.json
+D:\Programmes\Control_c_sharp\bin\Debug\net8.0\Control_c_sharp.dll
+D:\Programmes\Control_c_sharp\bin\Debug\net8.0\Control_c_sharp.pdb
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.AssemblyInfoInputs.cache
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.AssemblyInfo.cs
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.csproj.CoreCompileInputs.cache
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.dll
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\refint\Control_c_sharp.dll
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.pdb
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.genruntimeconfig.cache
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\ref\Control_c_sharp.dll
