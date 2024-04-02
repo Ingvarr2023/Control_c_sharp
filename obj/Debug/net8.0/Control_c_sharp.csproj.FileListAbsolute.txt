@@ -12,3 +12,4 @@ D:\Programmes\Control_c_sharp\obj\Debug\net8.0\refint\Control_c_sharp.dll
 D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.pdb
 D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.genruntimeconfig.cache
 D:\Programmes\Control_c_sharp\obj\Debug\net8.0\ref\Control_c_sharp.dll
+D:\Programmes\Control_c_sharp\obj\Debug\net8.0\Control_c_sharp.sourcelink.json
