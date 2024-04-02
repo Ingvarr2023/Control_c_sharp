@@ -26,7 +26,7 @@ string[] GetArray(string[] strArray)
             newSize++;
         }
     }
-}
+
 string[] newArray = new string[newSize];
 int i = 0;
     foreach (string item in strArray)
@@ -37,3 +37,6 @@ int i = 0;
             i++;
         }
     }
+    Console.WriteLine($"[{string.Join(", ", newArray)}]");
+    return newArray;
+}
