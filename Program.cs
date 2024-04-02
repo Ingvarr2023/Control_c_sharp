@@ -16,5 +16,6 @@ string[] strArray = {"1234", "1567", "-2", "computer science"};
 // string[] strArray = {"Russia", "Denmark", "Kazan"};
 // string[] strArray = {"Hello", "2", "world", ":-)"};
 
+string[] GetArray(string[] strArray)
 
 
