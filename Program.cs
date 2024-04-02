@@ -40,3 +40,4 @@ int i = 0;
     Console.WriteLine($"[{string.Join(", ", newArray)}]");
     return newArray;
 }
+GetArray(strArray);
