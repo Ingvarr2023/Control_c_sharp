@@ -27,4 +27,4 @@ string[] GetArray(string[] strArray)
         }
     }
 }
-
+string[] newArray = new string[newSize];
